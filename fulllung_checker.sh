@@ -1,4 +1,7 @@
 #! /bin/bash
+# @Author  : jetyau
+# @Contact : jieqiu@mori.m.is.nagoya-u.ac.jp
+# Please contact author for further support
 time_stamp=$(date +"%Y%m%d_%H%M%S")
 PYTHON=python3
 docker_path=/homes/jieqiu/code_store/NICT/detectlung/
